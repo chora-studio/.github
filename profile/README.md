@@ -12,4 +12,4 @@ Chora Studio offers software research and development consulting services to cli
 
 ### Validator
 
-Chora Studio operates as Chora Validator on Regen as well as multiple test networks including Regen Redwood and Chora Testnet.
+Chora Studio operates as Chora Validator on [Regen](https://www.mintscan.io/regen/validators/regenvaloper1t8p3zdu3h8qzggfmvvvmtdnaj4trcsfh79xp4e) as well as multiple test networks including Regen Redwood and Chora Testnet.
