@@ -4,4 +4,4 @@
 
 - [Products](https://chora.studio/products)
 - [Solutions](https://chora.studio/solutions)
-- [Validator](https://chora.studio/validtor)
+- [Validator](https://chora.studio/validator)
